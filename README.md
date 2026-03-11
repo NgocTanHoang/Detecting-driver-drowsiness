@@ -87,7 +87,7 @@ jupyter notebook
 - Check that the GPU is installed and running correct
 - The parameters in the notebook may need to be adjusted depending on the computer configuration.
 
-## Tài liệu tham khảo:
+## References:
 [1]. Khandave,  A.  (2020,  September  20).  *Driver  drowsiness  detection  alert  system  with Open-CV & Keras using IP-WebCam for camera connection.* Retrieved from [https://www.linkedin.com/pulse/driver-drowsiness-detection-alert-system-open-cv-keras-khandave/]
 
 [2]. Sahayadhas, A., Sundaraj, K., & Murugappan, M. (2012). *Detecting driver drowsiness based on sensors: A review.* Sensors, 12(12), 16937–16953. [https://doi.org/10.3390/s121216937](https://doi.org/10.3390/s121216937)
